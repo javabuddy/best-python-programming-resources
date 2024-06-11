@@ -1,7 +1,7 @@
-# Best Python Courses, Books, Tutorials, and Projects for Beginners and Intermediate Programmers
+# Best Python Courses, Books, Tutorials, and Projects
 A collection of best resources like online courses, books, tutorials, and projects to learn Python Programming, Data Science, Machine Learning, AI and related topics
 
-# best Python courses for beginners and intermediate developrs
+# best Python courses
 Whether you have just started learning to code or are a computer science graduate, if you are interested in learning Python then you have come to the right place. In this article, I am going to share my favorite online courses to **learn Python in 2024.**
 
 This list is made up of the best and highest-quality Python courses offered by [Udemy](https://medium.com/javarevisited/10-best-python-3-courses-on-udemy-ddd4e3ec5dbf), [Coursera](https://medium.com/javarevisited/10-best-python-certification-courses-from-coursera-4576890eb6b3), Pluralsight, CodeCademy, ZTM Academy, Educative, One Month, and other reputable online learning platforms which I have chosen after spending a year and a half researching countless [books](https://javarevisited.blogspot.com/2019/07/top-5-books-to-learn-python-in-2019.html), [free courses](https://javarevisited.blogspot.com/2018/12/10-free-python-courses-for-programmers.html), [online training](https://dev.to/javinpaul/7-python-online-courses-for-beginners-and-intermediate-programmers-1h4k), [websites](https://medium.com/javarevisited/10-free-python-tutorials-and-courses-from-google-microsoft-and-coursera-for-beginners-96b9ad20b4e6), articles, and tutorials.
